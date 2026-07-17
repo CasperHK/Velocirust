@@ -1,0 +1,8 @@
+{
+  "name": "rhr-stack",
+  "private": true,
+  "workspaces": [
+    "src/frontend",
+    "src/shared"
+  ]
+}
