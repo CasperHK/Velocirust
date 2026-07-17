@@ -7,7 +7,6 @@
 *   **Backend:** [Salvo](https://salvo.rs/) - 高效能 Web 服務框架，處理業務邏輯與 Server-Sent Events (SSE)。
 *   **ORM:** [SeaORM](https://www.sea-ql.org/SeaORM/) - A powerful ORM for building web services in Rust.
 *   **Frontend (UI):** [SolidStart](https://start.solidjs.com/) - 處理 SSR 與基礎架構。
-*   **Frontend (Interaction):** [Datastar](https://data-star.dev/) - 透過 HTML-over-the-wire 技術直接進行即時 UI 更新。
 *   **Runtime:** [Bun](https://bun.sh/) - 管理 Monorepo 與高效能 JavaScript 運行環境。
 
 ## 專案結構 (Monorepo)
