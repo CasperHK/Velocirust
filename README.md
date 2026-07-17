@@ -15,7 +15,7 @@
 ```text
 /src
 ├── /backend          # Rust Salvo 服務
-├── /frontend         # SolidStart + Datastar UI
+├── /frontend         # SolidStart + daisyUI
 ├── /shared           # Rust 與 TypeScript 型別共享定義
 └── /scripts          # 開發自動化腳本
 
